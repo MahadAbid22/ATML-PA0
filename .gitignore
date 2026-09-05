@@ -1,0 +1,20 @@
+# PyTorch & Data
+*.pt
+*.pth
+data/
+
+# Python & Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+
+# LaTeX Aux files
+report/*.aux
+report/*.log
+report/*.out
+report/*.fls
+report/*.fdb_latexmk
+report/*.synctex.gz
+report/*.bbl
+report/*.blg

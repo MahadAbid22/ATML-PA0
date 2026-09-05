@@ -1,0 +1,20 @@
+# Core ML & Vision
+torchvision
+timm
+transformers
+
+# Data & Math
+scikit-learn
+scipy
+numpy
+
+# Visualization & Notebooks
+matplotlib
+umap-learn
+jupyter
+ipykernel
+
+# CLIP Dependencies
+ftfy
+regex
+tqdm
