@@ -18,3 +18,5 @@ report/*.fdb_latexmk
 report/*.synctex.gz
 report/*.bbl
 report/*.blg
+
+PA 0.pdf
